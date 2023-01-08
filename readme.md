@@ -2,6 +2,8 @@
 
 Terminal Clock is an ASCII art digital clock which reads the system time and displays it in the terminal.
 
+<p align="center"><img src="https://raw.githubusercontent.com/ionutrogojan/terminal_clock/main/img/preview.png" width="100%"/></p>
+
 <br>
 
 ## **Quick Start**
